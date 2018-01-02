@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/news/coming_soon/</loc>
+    <loc>https://pavanakumar.github.io/OpenFUSE/news/coming_soon/</loc>
     <lastmod>2018-01-02T12:30:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/c&#43;&#43;/</loc>
-    <lastmod>2018-01-02T12:30:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/lua/</loc>
+    <loc>https://pavanakumar.github.io/OpenFUSE/tags/c&#43;&#43;/</loc>
     <lastmod>2018-01-02T12:30:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/news/</loc>
+    <loc>https://pavanakumar.github.io/OpenFUSE/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavanakumar.github.io/OpenFUSE/tags/lua/</loc>
     <lastmod>2018-01-02T12:30:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://pavanakumar.github.io/OpenFUSE/news/</loc>
     <lastmod>2018-01-02T12:30:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://pavanakumar.github.io/OpenFUSE/</loc>
+    <lastmod>2018-01-02T12:30:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavanakumar.github.io/OpenFUSE/tags/</loc>
     <lastmod>2018-01-02T12:30:56+00:00</lastmod>
     <priority>0</priority>
   </url>
